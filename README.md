@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShenoyAsh
 - 👀 I’m interested in CS related things,technology,programming,etc.
-- 🌱 I’m currently learning in 2nd year in SJEC.
+- 🌱 I’m currently learning in 3rd year in SJEC.
 - 💞️ I’m looking to collaborate on my later on projects.
 - 📫 How to reach me ... Follow me on Linkedin and Instagram platform.
 
