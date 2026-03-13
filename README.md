@@ -1,6 +1,4 @@
-# Ashwini Shenoy
-
-Computer Science Student | Developer | Technology Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashwini+Shenoy+B!;AI+%7C+ML+%7C+Web+Developer;LeetCode+Enthusiast" />
 
 ---
 
@@ -23,19 +21,25 @@ Currently in Third Year
 ## Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![Java](https://img.shields.io/badge/Java-Programming-red)
-![C](https://img.shields.io/badge/C-Programming-grey)
-![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
 
 ### Development Tools
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ### Technologies
-![Web Development](https://img.shields.io/badge/Web%20Development-Technology-blue)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-AI-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-lightgrey)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</p>
 
 ---
 
@@ -48,6 +52,9 @@ Experiments with AI agent frameworks and automation tools for building intellige
 A collection of smaller projects created to strengthen programming skills and explore different development technologies.
 
 ---
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ashwini_Shenoy_B?theme=dark&font=Karma)
 
 ## Research and Learning Interests
 
@@ -65,13 +72,6 @@ I am open to collaborating on technical projects, open-source contributions, and
 
 ---
 
-## Connect
-
-LinkedIn: https://www.linkedin.com/  
-Instagram: https://www.instagram.com/
-
----
-
 ## Contribution Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShenoyAsh)
@@ -83,3 +83,8 @@ Instagram: https://www.instagram.com/
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShenoyAsh)
 
 ---
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=ShenoyAsh&color=blue)
+
+
