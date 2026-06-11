@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a third-year Computer Science student at **St. Joseph Engineering College (SJEC)** with a strong interest in software development, artificial intelligence, and emerging technologies. I focus on building practical projects, learning modern development tools, and strengthening my problem-solving abilities through hands-on work.
+I am a final Computer Science student with a strong interest in software development, artificial intelligence, and emerging technologies. I focus on building practical projects, learning modern development tools, and strengthening my problem-solving abilities through hands-on work.
 
 My goal is to develop strong computer science fundamentals while applying them to real-world software systems and intelligent technologies.
 
@@ -12,9 +12,8 @@ My goal is to develop strong computer science fundamentals while applying them t
 
 ## Education
 
-**Bachelor of Engineering in Computer Science**  
-St. Joseph Engineering College (SJEC)  
-Currently in Third Year
+**Bachelor of Engineering in Computer Science**   
+Currently in Final Year
 
 ---
 
@@ -52,9 +51,6 @@ Experiments with AI agent frameworks and automation tools for building intellige
 A collection of smaller projects created to strengthen programming skills and explore different development technologies.
 
 ---
-## 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ashwini_Shenoy_B?theme=dark&font=Karma)
 
 ## Research and Learning Interests
 
@@ -71,20 +67,4 @@ Applied Machine Learning
 I am open to collaborating on technical projects, open-source contributions, and research-oriented work related to artificial intelligence, software engineering, and emerging technologies.
 
 ---
-
-## Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShenoyAsh)
-
----
-
-## Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShenoyAsh)
-
----
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=ShenoyAsh&color=blue)
-
 
